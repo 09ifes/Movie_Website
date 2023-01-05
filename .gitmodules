@@ -1,0 +1,6 @@
+[submodule "Movie_Website_Frontend"]
+	path = Movie_Website_Frontend
+	url = https://github.com/09ifes/Movie_Website_Frontend
+[submodule "Movie_Website_Backend"]
+	path = Movie_Website_Backend
+	url = https://github.com/09ifes/Movie_Website_Backend
