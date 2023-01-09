@@ -7,3 +7,7 @@ The backend files can be downloaded and opened in Intellij, however it will requ
 
 With everything set up and complete, the backend localhost server can be run by executing the command: mvn spring-boot:run, in the terminal, or by simply running the demoApplication java file. For setting up and running the frontend, please check the README in the Movie_Website_Frontend directory.
 
+
+
+https://user-images.githubusercontent.com/106835949/211426643-c9915daa-77e2-463a-bb6e-3f9009a55339.mp4
+
